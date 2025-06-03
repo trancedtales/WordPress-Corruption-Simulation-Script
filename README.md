@@ -79,7 +79,7 @@ This script can be used to:
 
 **Aditya Kumar**  
 Web Developer | WordPress & React Enthusiast  
-[LinkedIn](https://www.linkedin.com) (optional)
+[LinkedIn](https://www.linkedin.com/in/trancedtales/) (optional)
 
 ---
 
